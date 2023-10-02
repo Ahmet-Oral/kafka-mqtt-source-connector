@@ -1,0 +1,11 @@
+# General
+README.md
+
+# Git
+.git/
+.gitignore
+
+# DevOps
+Dockerfile
+.dockerignore
+manifests/
